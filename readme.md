@@ -23,15 +23,11 @@ Welcome to our online tic-tac-toe game! This game allows you to play tic-tac-toe
 - WebSocket for real-time communication
 - Node.js and Express.js for the server-side logic
 
-## Development Team
-- John Doe (Project Manager)
-- Jane Smith (Lead Developer)
-- Alex Johnson (UI/UX Designer)
-- Emily Brown (Backend Developer)
-- Michael Clark (Frontend Developer)
 
 ## Repository
-The source code for this project is available on [GitHub](https://github.com/SabEennn/online_tictactoe).
+The source code for this project is available on
+ [GitHub](https://github.com/SabEennn/online_tictactoe).
+ [Website](https://online-tictactoe.onrender.com/).
 
 ## Feedback
 We welcome any feedback or suggestions for improving the game. 
